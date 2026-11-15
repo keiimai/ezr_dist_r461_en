@@ -1,0 +1,4 @@
+// --- Do not let the R extension prompt you to install the language server (WORKSPACE.md §1) ---
+{
+    "r.lsp.promptToInstall": false
+}
